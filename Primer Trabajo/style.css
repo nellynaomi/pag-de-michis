@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(110, 66, 242);
+    font-family: fantasy;
+}
+
+
+
+img {
+    text-align: center;
+    width: 380px;
+    height: 200px;
+}
+
+.divalcentro {
+    text-align: center;
+
+}
+
+p {
+    text-align: justify;
+    color: rgb(251, 131, 255)
+}
+
+.divcentrado {
+    text-align: center;
+}
+
+.sc-gato {
+    color: rgba(251, 131, 255);
+}
+
+.GATITOS {
+    color: rgb(251, 131, 255);
+}
+
+.menu {
+    /*Div flexible para moverce con loc elementos dentro de si */
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.coon{
+    text-align: center;
+}
+
+.tinker{
+    text-align: center;
+}
+.siames{
+    text-align: center;
+}
+
+ body{
+    margin: auto;
+    padding:5% ;
+ }
